@@ -1,0 +1,11 @@
+# Jupyter
+ipykernel
+
+# Data
+mnist
+
+# Plotting
+matplotlib
+
+# Implementation
+numpy
